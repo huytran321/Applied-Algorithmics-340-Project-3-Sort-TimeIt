@@ -1,4 +1,4 @@
-# Applied-Application-340-Project-3-Sort-TimeIt
+# Applied-Algorithmics-340-Project-3-Sort-TimeIt
 
 This the third project in 340
 
